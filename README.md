@@ -40,8 +40,6 @@
 <br>
 
 
-<img src="https://wakatime.com/share/@37d3764f-03d8-4775-b6bd-fb1dea096502/12e058a0-1c6b-4aaf-8609-5d4c7b8fe16d.svg">
-
 <hr>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skyl1te&theme=dracula" width="100%">
 <p float="left">
