@@ -29,7 +29,7 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Sublime Text 4" height="25" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Sass" height="25" src="images/sass.svg"></code>
