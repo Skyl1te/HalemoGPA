@@ -36,18 +36,4 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-<hr>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skyl1te&theme=dracula" width="100%">
-<p float="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skyl1te&theme=dracula" width="49%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skyl1te&theme=dracula" width="50%">
-</p>
-<p float="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skyl1te&theme=dracula" width="49%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skyl1te&theme=dracula&utcOffset=8" width="50%">
-</p>
 
