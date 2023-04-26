@@ -11,7 +11,7 @@
   Hi, I'm _skyl1te, Front-end & Python developer from UKRAINE
   <br>
   <br>
-  👨‍🎓 I'm currently studying JS and jQuery
+  👨‍🎓 I'm currently studying С++
   <br>
   💻 I love Writing code and learning anything about them 😊
   <br>
